@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "nombre": "Columbia Records",
+    "fundacion": "1887",
+    "fundador": "Edward D. Easton",
+    "director": "Rob Stringer",
+    "pais": "Estados Unidos",
+    "imagen": "../images/discograficas/columbia_records.png"
+  },
+  {
+    "id": 2,
+    "nombre": "Impulse! Records",
+    "fundacion": "1960",
+    "fundador": "Creed Taylor",
+    "director": "Dickon Stainer/Verve Records",
+    "pais": "Estados Unidos",
+    "imagen": "../images/discograficas/impulse_records.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Blue Note Records",
+    "fundacion": "1939",
+    "fundador": "Alfred Lion, Francis Wolff, Max Margulis",
+    "director": "Steve Barnett/Universal Music Group",
+    "pais": "Estados Unidos",
+    "imagen": "../images/discograficas/blue_note_records.png"
+  },
+  {
+    "id": 4,
+    "nombre": "Verve Records",
+    "fundacion": "1956",
+    "fundador": "Norman Granz",
+    "director": "Dickon Stainer",
+    "pais": "Estados Unidos",
+    "imagen": "../images/discograficas/verve_records.png"
+  },
+  {
+    "id": 5,
+    "nombre": "Riverside Records",
+    "fundacion": "1953",
+    "fundador": "Bill Grauer, Jr, Orrin Keepnews",
+    "director": "Bill Grauer, Jr, Orrin Keepnews",
+    "pais": "Estados Unidos",
+    "imagen": "../images/discograficas/riverside_records.png"
+  },
+  {
+    "id": 6,
+    "nombre": "Philips Records",
+    "fundacion": "1950",
+    "fundador": "Koninklijke Philips B.V.",
+    "director": "Steve Barnett/Universal Music Group",
+    "pais": "Paises Bajos",
+    "imagen": "../images/discograficas/phillips_records.png"
+  },
+  {
+    "id": 7,
+    "nombre": "Warner Bros records",
+    "fundacion": "1958",
+    "fundador": "Warner Bros.",
+    "director": " Stephen Cooper/Warner Music Group",
+    "pais": "Estados Unidos",
+    "imagen": "../images/discograficas/warner_bros_records.png"
+  },
+  {
+    "id": 8,
+    "nombre": "Columbia Records test",
+    "fundacion": "1887",
+    "fundador": "Edward D. Easton",
+    "director": "Rob Stringer",
+    "pais": "Estados Unidos",
+    "imagen": "../images/discograficas/columbia_records.png"
+  }
+]
