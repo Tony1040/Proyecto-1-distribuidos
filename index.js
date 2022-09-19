@@ -1,7 +1,7 @@
 const express = require('express')
-const Albums = require("../JazzThemesBackend/models/Albums.js");
-const Artists = require("../JazzThemesBackend/models/Artistas.js");
-const Publishers = require("../JazzThemesBackend/models/Discograficas.js");
+const Albums = require("./JazzThemesBackend/models/Albums.js");
+const Artists = require("./JazzThemesBackend/models/Artistas.js");
+const Publishers = require("./JazzThemesBackend/models/Discograficas.js");
 
 
 const albums = new Albums()
