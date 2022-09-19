@@ -4,7 +4,9 @@
   "description": "Repositorio para el proyecto 1 de sistemas distribuidos",
   "main": "src/index.js",
   "scripts": {
-    "start": "nodemon src/index.js"
+    "start": "nodemon src/index.js",
+    "serve": "nodemon --watch dist/ ./dist/index.js",
+    "build": "nodemon --watch src/ --exec babel ./src --out-dir ./dist --source-maps --copy-files"
   },
   "repository": {
     "type": "git",
@@ -23,5 +25,8 @@
   },
   "engines": {
     "node": "14.x"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0"
   }
 }
