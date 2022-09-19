@@ -35,4 +35,3 @@ app.post("/discografica/:id", (req, res) => publishers.updateById(req, res));
 app.delete("/discografica/:id", (req, res) => publishers.deleteById(req, res, albums));
 
 app.listen(port, () => console.log(`Server listening on port ${port}`));
-//# sourceMappingURL=index.js.map
